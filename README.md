@@ -9,7 +9,7 @@
 <body>
     <!-- Header Section -->
     <header>
-        <h1>Welcome to [Your Name]'s Academic Website</h1>
+        <h1>Welcome to debanshu's Academic Website</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
